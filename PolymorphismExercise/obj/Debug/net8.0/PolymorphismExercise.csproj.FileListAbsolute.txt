@@ -1,0 +1,14 @@
+C:\Users\motta\source\repos\PolymorphismExercise\bin\Debug\net8.0\PolymorphismExercise.exe
+C:\Users\motta\source\repos\PolymorphismExercise\bin\Debug\net8.0\PolymorphismExercise.deps.json
+C:\Users\motta\source\repos\PolymorphismExercise\bin\Debug\net8.0\PolymorphismExercise.runtimeconfig.json
+C:\Users\motta\source\repos\PolymorphismExercise\bin\Debug\net8.0\PolymorphismExercise.dll
+C:\Users\motta\source\repos\PolymorphismExercise\bin\Debug\net8.0\PolymorphismExercise.pdb
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.AssemblyInfoInputs.cache
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.AssemblyInfo.cs
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.csproj.CoreCompileInputs.cache
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.dll
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\refint\PolymorphismExercise.dll
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.pdb
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\PolymorphismExercise.genruntimeconfig.cache
+C:\Users\motta\source\repos\PolymorphismExercise\obj\Debug\net8.0\ref\PolymorphismExercise.dll
